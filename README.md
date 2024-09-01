@@ -1,5 +1,7 @@
 # IMDB Top Movies Scraper
 
+![IMDB](demo.jpg) <!-- Custom Image -->
+
 This project scrapes the IMDb (Internet Movie Database) website to retrieve information about the top movies and exports the data to an Excel file. It uses Selenium for web automation, BeautifulSoup for parsing HTML, and pandas for data manipulation.
 
 ## Features
@@ -132,4 +134,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for parsing HTML.
 - [Pandas](https://pandas.pydata.org/) for data manipulation.
 - [WebDriver Manager](https://github.com/SergeyPirogov/webdriver_manager) for managing browser drivers.
+
+
 
